@@ -1,18 +1,18 @@
 {
   "name": "random-js",
-  "description": "A mathematically correct random number generator library for JavaScript.",
+  "description": "My own fork of random-js.",
   "version": "2.1.0",
   "author": {
-    "name": "Cameron Kenneth Knight",
-    "email": "ckknight@gmail.com"
+    "name": "Bruno Albuquerque",
+    "email": "bruno.felipe.albuquerque@gmail.com"
   },
   "keywords": [
     "random"
   ],
-  "homepage": "https://github.com/ckknight/random-js",
-  "bugs": "https://github.com/ckknight/random-js/issues",
+  "homepage": "https://github.com/BrunoFelipeAlbuquerque/random-js",
+  "bugs": "https://github.com/BrunoFelipeAlbuquerque/random-js/issues",
   "license": "MIT",
-  "repository": "git://github.com/ckknight/random-js",
+  "repository": "git://github.com/BrunoFelipeAlbuquerque/random-js",
   "main": "dist/random-js.umd.js",
   "module": "dist/random-js.esm.js",
   "unpkg": "dist/random-js.umd.min.js",
